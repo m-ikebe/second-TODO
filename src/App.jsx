@@ -9,7 +9,7 @@ const App = () => {
   const onClickCountup = () => {
     setNum(num + 1);
     console.log("Countup");
-  };
+  };  
 
   const onClickSwitchShowFlag = () => {
     setFaceshowFlag(!faceshowFlag);
